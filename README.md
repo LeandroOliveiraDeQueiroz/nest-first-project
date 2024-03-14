@@ -1,3 +1,16 @@
+## Personal Project
+
+That project was focused on learning and developing using the framework Nest.js.
+Nest.js uses decorators to create schemas, modules, DTO (data transfer objects), and specify controllers. 
+That usage makes the developer obligated to use patterns separating the schema, data checking, services and controllers. 
+
+I already have experience with Node, Docker, and MongoDB.
+
+
+# Entities
+  
+#
+
 ## Installation
 
 ```bash
