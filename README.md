@@ -2,7 +2,12 @@
 
 That project was focused on learning and developing using the framework Nest.js.
 Nest.js uses decorators to create schemas, modules, DTO (data transfer objects), and specify controllers. 
-That usage makes the developer obligated to use patterns separating the schema, data checking, services and controllers. 
+That usage makes the developer obligated to use patterns separating the schema, data checking, services, and controllers. 
+
+The project consists of a CRUD of a user with its avatar in another table.
+Some main features are: 
+ *  Send an email to the user when it was created
+ *  Send a message for how is subscribed using rabbitMQ
 
 I already have experience with Node, Docker, and MongoDB.
 
